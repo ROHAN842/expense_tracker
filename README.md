@@ -5,7 +5,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
 
-
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://expense-traker-react.netlify.app/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/expense_tracker)
 
