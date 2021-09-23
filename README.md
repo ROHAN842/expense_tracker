@@ -26,7 +26,7 @@
 - **Open the website [https://expense-traker-react.netlify.app/](https://expense-traker-react.netlify.app/)**
 - **User can choose the desired category of Income and Expense along with also choosing accurate date and amount for that Income or Expense, as soon as user clicks on create button beautiful colored pie chart is generated displaying our Income or Expense.**
 - **User can also add Income/Expense through Voice, due to support of speechly**
-- **User's activity is saved on browser itself which means whatever data of Income/Expense is imported by user, won't be vanished even after closing the browser beacuse of local storage. **
+- **User's activity is saved on browser itself which means whatever data of Income/Expense is imported by user, won't be vanished even after closing the browser beacuse of local storage.**
 
 
 ## Dependencies 🗃
