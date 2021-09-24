@@ -12,7 +12,7 @@
 <img src="images/Screenshot expense-tracker.jpg">
 
 - Keep track on day to day transactions 💸
-- Voice 🎤 based adding of Income 💰 or Expense 💸
+- Voice 🎙️ based adding of Income 💰 or Expense 💸
 - Clean UI ⚡
 - Local Storage support for saving user's activity on browser 🌐 itself 
 
